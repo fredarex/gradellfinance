@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# Gradell finance dashboard
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## features of application
+1. A display of all currency and coin
+2. get information of individual currency/coin
 ## Available Scripts
 
 In the project directory, you can run:
